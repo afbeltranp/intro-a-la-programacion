@@ -22,3 +22,37 @@ v = a \cdot t
 ```
 
 The displacement can be found using the equation $s = v \cdot t$.
+
+# Tables
+
+| Column 1 | Column 2 | Column 3 |
+|---|---|---|
+| Data 1  | Data 2  | Data 3  |
+| Data 4  | Data 5  | Data 6  |
+
+
+```{table} Table caption
+:widths: auto
+:align: center
+
+| Header 1      | Header 2      | Header 3      |
+|---------------|---------------|---------------|
+| Row 1, Col 1  | Row 1, Col 2  | Row 1, Col 3  |
+| Row 2, Col 1  | Row 2, Col 2  | Row 2, Col 3  |
+```
+
+
+```{list-table} Sample Data Table
+:header-rows: 1
+* - Category
+  - Value 1
+  - Value 2
+* - Item A
+  - 10
+  - 20
+* - Item B
+  - 15
+  - 30
+```
+
+
