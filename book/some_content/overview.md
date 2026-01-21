@@ -12,3 +12,15 @@ align: center
 
 ```{video} https://www.youtube.com/watch/B1J6Ou4q8vE
 ```
+
+$$ F_{res} = m \cdot a $$ 
+
+$$ E = m \cdot c^2 $$
+
+```{math}
+v = a \cdot t
+```
+
+The displacement can be found using the equation $s = v \cdot t$.
+
+$$ \olive{\int_a^bf(x)dx} $$
