@@ -11,7 +11,6 @@ parts:
     chapters:
     - file: some_content/overview.md
       sections:
-      - external: https://github.com/TUDelft-MUDE/book/blob/2024/book/fvm/intro.md
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
       - file: file_on_new_version.md
