@@ -125,4 +125,15 @@ This content is hidden until the user clicks the title.
 ```
 
 
+````{definition} Term
+:label: term-definition
+A word or phrase used to describe a concept or object.
+````
+
+
+For more details, see the definition of {ref}`term-definition`.
+
+
+This is a **strong term**, this is an *emphasised term*, and this is a `literal term`.
+
 
