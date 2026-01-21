@@ -60,27 +60,69 @@ The displacement can be found using the equation $s = v \cdot t$.
 # Cross Reference
 
 [Go text and code](text_and_code.ipynb)
-[Go to Exercise 7](../exercises/007.md)
 
-$$ F = m \cdot a$$ (eq:Newton)
+[Go to Exercise 7](../exercises/001.md)
 
-Refer to Equation {eq}`eq:Newton`
+$$ F = m \cdot a$$ (eq:Newton2)
+
+Refer to Equation {eq}`eq:Newton2`
 
 ```{table} Example Table
-:name: tab-example
+:name: tab-example2
 | Column 1 | Column 2 |
 |----------|----------|
 | A        | B        |
 ```
 
 
-{numref}`My table {number} <tab-example>`
+{numref}`My table {number} <tab-example2>`
 
 {numref}`Figure {number} <fig-example>`
 
 
 Here is the [link to the template](https://teachbooks.github.io/template/).
 
+
+# admonitions
+
+```{note}
+This is a note. It always has the title "Note".
+```
+
+```{tip}
+This is a helpful tip!
+```
+
+```{warning}
+Be careful when editing this file.
+```
+
+```{attention}
+Important: Save your work frequently.
+```
+
+```{admonition} Did you know?
+You can customise the title of this block using the `admonition` directive.
+```
+
+
+```{dropdown} Click to reveal more info
+This content is hidden until the user clicks the title.
+```
+
+```{dropdown} See the steps
+1. Open your file.
+2. Write some content.
+3. Preview the changes.
+```
+
+# Citations
+
+{cite:p}`jason_moore`
+
+```{bibliography}
+:filter: docname in docnames
+```
 
 
 
