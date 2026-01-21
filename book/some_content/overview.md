@@ -6,8 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 width: 80%
 align: center
+name: fig-example
 ---
-<caption text>
+Logo.
 ```
 
 ```{video} https://www.youtube.com/watch/B1J6Ou4q8vE
@@ -54,5 +55,32 @@ The displacement can be found using the equation $s = v \cdot t$.
   - 15
   - 30
 ```
+
+
+# Cross Reference
+
+[Go text and code](text_and_code.ipynb)
+[Go to Exercise 7](../exercises/007.md)
+
+$$ F = m \cdot a$$ (eq:Newton)
+
+Refer to Equation {eq}`eq:Newton`
+
+```{table} Example Table
+:name: tab-example
+| Column 1 | Column 2 |
+|----------|----------|
+| A        | B        |
+```
+
+
+{numref}`My table {number} <tab-example>`
+
+{numref}`Figure {number} <fig-example>`
+
+
+Here is the [link to the template](https://teachbooks.github.io/template/).
+
+
 
 
