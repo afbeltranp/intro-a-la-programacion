@@ -11,6 +11,7 @@ parts:
         - file: python_basics/01_codio_workspace.ipynb
         - file: python_basics/02_interactive_python_and_arithmetic_basics.ipynb
         - file: python_basics/03_variables.ipynb
+        - file: python_basics/04_files_and_script.ipynb
      - file: some_content/overview.md
        sections:
         - file: some_content/text_and_code.ipynb
