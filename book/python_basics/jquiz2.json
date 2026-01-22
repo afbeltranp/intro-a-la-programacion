@@ -1,0 +1,28 @@
+[
+  {
+    "question": "What will the code evaluate to?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "4.0",
+        "correct": true,
+        "feedback": "Correct!"
+      },
+      {
+        "answer": "4",
+        "correct": false,
+        "feedback": "Incorrect!"
+      },
+      {
+        "answer": "2",
+        "correct": false,
+        "feedback": "Incorrect!"
+      },
+      {
+        "answer": "13.5",
+        "correct": false,
+        "feedback": "Incorrect!"
+      }
+    ]
+  }
+]
