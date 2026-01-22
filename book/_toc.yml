@@ -13,6 +13,9 @@ parts:
         - file: python_basics/03_variables.ipynb
         - file: python_basics/04_files_and_script.ipynb
         - file: python_basics/05_print_function.ipynb
+        - file: python_basics/06_input.ipynb
+        - file: python_basics/07_typecasting.ipynb
+        - file: python_basics/08_overall_demo.ipynb
      - file: some_content/overview.md
        sections:
         - file: some_content/text_and_code.ipynb
