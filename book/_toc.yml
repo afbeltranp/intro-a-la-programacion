@@ -21,7 +21,7 @@ parts:
         - file: data_types_and_program_control_i/01_conditional_statements.ipynb
   - caption: Labs
     chapters:
-     - file: syntax_exercises.md
+     - file: labs/lab1.ipynb
   - caption: Miscellaneous
     chapters:
      - file: references.md
