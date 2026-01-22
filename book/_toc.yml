@@ -8,7 +8,7 @@ parts:
     chapters:
      - file: python_basics/00_overview.md
        sections:
-        - file: python_basics/01_codio_workspace.md 
+        - file: python_basics/01_codio_workspace.ipynb
      - file: some_content/overview.md
        sections:
         - file: some_content/text_and_code.ipynb
