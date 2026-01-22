@@ -1,4 +1,6 @@
-# Welcome to the Codio and Python Basics!
+# Codio and Python Basics
+
+Welcome to the Codio and Python Basics!
 
 ## What to Expect from this Module
 
