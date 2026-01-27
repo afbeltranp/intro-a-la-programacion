@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What does the following command do?",
+    "code": "ls",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Prints the name of the directory you are currently in",
+        "correct": false,
+        "feedback": "Incorrect!"
+      },
+      {
+        "answer": "Lists the files and directories in your current directory",
+        "correct": true,
+        "feedback": "Correct!"
+      },
+      {
+        "answer": "Creates a new file",
+        "correct": false,
+        "feedback": "Incorrect!"
+      },
+      {
+        "answer": "Creates a new directory",
+        "correct": false,
+        "feedback": "Incorrect!"
+      }
+    ]
+  }
+]

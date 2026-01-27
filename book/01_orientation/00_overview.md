@@ -6,8 +6,7 @@
 
 ## Primeros Pasos: Qué Esperar
 
-Estamos muy contentos de tenerte en **Introducción a la Programación**.  
-Este curso está diseñado para brindarte las herramientas, habilidades y confianza para escribir código en la práctica de ingeniería.
+Estamos muy contentos de tenerte en **Introducción a la Programación**. Este curso está diseñado para brindarte las herramientas, habilidades y confianza para escribir código en la práctica de ingeniería.
 
 En las páginas siguientes, encontrarás todo lo que necesitas para tener un inicio exitoso:
 
