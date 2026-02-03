@@ -28,8 +28,8 @@ parts:
   #- caption: Labs
   #  chapters:
   #   - file: labs/lab1.ipynb
-  - caption: Miscellaneous
-    chapters:
-     - file: references.md
-     - file: changelog.md
-     - file: credits.md
+  # - caption: Miscellaneous
+  #   chapters:
+  #    - file: references.md
+  #    - file: changelog.md
+  #    - file: credits.md
