@@ -1,41 +1,41 @@
-# Python Basics
+# Fundamentos de Python
 
-Welcome to Python Basics!
+¡Bienvenido a Fundamentos de Python!
 
-## What to Expect from this Module
+## Qué Esperar de este Módulo
 
-In this module we will go over **Basics of python:**
-  - Variable storage.
-  - Output formatting.
-  - Input retrieval.
-  - Type casting.
+En este módulo repasaremos los **Fundamentos de Python:**
+  - Almacenamiento de variables.
+  - Formato de salida.
+  - Obtención de entrada.
+  - Conversión de tipos.
 
-### 1. **Interactive Python, and Basics**
+### 1. **Python Interactivo y Conceptos Básicos**
 
-- Teaches how interactive python works, how to start it, and how to exit it.
+- Enseña cómo funciona Python interactivo, cómo iniciarlo y cómo salir de él.
 
 ### 2. **Variables**
 
-- Starting now on python syntax, teaches how to store values in variables that can be used later!
+- Comenzando ahora con la sintaxis de Python, enseña cómo almacenar valores en variables que pueden ser usadas más tarde.
 
-### 3. **Files and Scripts Python**
+### 3. **Archivos y Scripts de Python**
 
-- Reviews some common file extensions.
-- You will create and run a new Python file.
+- Revisa algunas extensiones de archivo comunes.
+- Crearás y ejecutarás un nuevo archivo de Python.
 
-### 4. **Print Function**
+### 4. **Función Print**
 
-- Shows you how to output text to the console and for testing.
+- Te muestra cómo mostrar texto en la consola y para pruebas.
 
-### 5. **Input**
+### 5. **Entrada (Input)**
 
-- Shows you how to take user input with and without a text prompt in the console.
+- Te muestra cómo recibir entrada del usuario con y sin un mensaje de texto en la consola.
 
-### 6. **Typecasting**
+### 6. **Conversión de Tipos (Typecasting)**
 
-- This will get you familiar with types and how to translate values between types.
+- Esto te familiarizará con los tipos y cómo traducir valores entre tipos.
 
-### 7. **Overall Demo**
+### 7. **Demostración General**
 
-- A programming question testing all of the above topics.
-- You will have a question like this in the demos every week.
+- Una pregunta de programación que prueba todos los temas anteriores.
+- Tendrás una pregunta como esta en las demostraciones cada semana.

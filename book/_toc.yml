@@ -22,9 +22,9 @@ parts:
         - file: python_basics/06_input.ipynb
         - file: python_basics/07_typecasting.ipynb
         - file: python_basics/08_overall_demo.ipynb
-     - file: data_types_and_program_control_i/00_overview.md
-       sections:
-        - file: data_types_and_program_control_i/01_conditional_statements.ipynb
+  #   - file: data_types_and_program_control_i/00_overview.md
+  #     sections:
+  #      - file: data_types_and_program_control_i/01_conditional_statements.ipynb
   #- caption: Labs
   #  chapters:
   #   - file: labs/lab1.ipynb
