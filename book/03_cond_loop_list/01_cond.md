@@ -18,10 +18,14 @@
 
 ## ¿Cómo Funcionan las Declaraciones `if`?
 - `if` - **Ejecuta** un bloque de código **si la condición es `True`**.
-    <img src="if_else.png" alt="alt text" width="150" height="auto"/>
+   
+    <img src="if_else.png" alt="alt text" width="200" height="auto"/>
+
 - `elif` - **Verifica otra condición** si el primer `if` fue `False`.
+
 - `else` - **Se ejecuta si todas las condiciones anteriores fueron `False`**.
-    <img src="elif.png" alt="alt text" width="250" height="auto"/>
+
+    <img src="elif.png" alt="alt text" width="350" height="auto"/>
 
 ---
 
