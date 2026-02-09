@@ -13,15 +13,26 @@ parts:
         - file: 01_orientation/03_class_schedule.ipynb
         - file: 01_orientation/04_vscode.ipynb
         - file: 01_orientation/05_ai.ipynb
-     - file: python_basics/00_overview.md
+     - file: 02_python_basics/00_overview.md
        sections:
-        - file: python_basics/02_interactive_python_and_arithmetic_basics.ipynb
-        - file: python_basics/03_variables.ipynb
-        - file: python_basics/04_files_and_script.ipynb
-        - file: python_basics/05_print_function.ipynb
-        - file: python_basics/06_input.ipynb
-        - file: python_basics/07_typecasting.ipynb
-        - file: python_basics/08_overall_demo.ipynb
+        - file: 02_python_basics/02_interactive_python_and_arithmetic_basics.ipynb
+        - file: 02_python_basics/03_variables.ipynb
+        - file: 02_python_basics/04_files_and_script.ipynb
+        - file: 02_python_basics/05_print_function.ipynb
+        - file: 02_python_basics/06_input.ipynb
+        - file: 02_python_basics/07_typecasting.ipynb
+        - file: 02_python_basics/08_overall_demo.ipynb
+     - file: 03_cond_loop_list/00_overview.md
+       sections:
+       - file: 03_cond_loop_list/01_cond.md
+       - file: 03_cond_loop_lis/02_logops.md
+       - file: 03_cond_loop_lis/03_while.md
+       - file: 03_cond_loop_lis/04_list.md
+       - file: 03_cond_loop_lis/05_for.md
+       - file: 03_cond_loop_lis/06_minmax.md
+       - file: 03_cond_loop_lis/07_nested.md
+       - file: 03_cond_loop_lis/08_denmo.md
+
   #   - file: data_types_and_program_control_i/00_overview.md
   #     sections:
   #      - file: data_types_and_program_control_i/01_conditional_statements.ipynb
