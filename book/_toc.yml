@@ -32,6 +32,16 @@ parts:
        - file: 03_cond_loop_list/06_minmax.md
        - file: 03_cond_loop_list/07_nested.md
        - file: 03_cond_loop_list/08_demo.md
+     - file: 04_tuple_str_sets/00_overview.md
+       sections:
+       - file: 04_tuple_str_sets/01_tuples.md
+       - file: 04_tuple_str_sets/02_strings.md
+       - file: 04_tuple_str_sets/03_sets.md
+       - file: 04_tuple_str_sets/04_input_val.md
+       - file: 04_tuple_str_sets/05_list_comprehension.md
+       - file: 04_tuple_str_sets/06_enumerate.md
+       - file: 04_tuple_str_sets/07_overall.md
+  
 
   #   - file: data_types_and_program_control_i/00_overview.md
   #     sections:
