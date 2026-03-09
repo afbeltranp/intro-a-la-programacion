@@ -41,6 +41,17 @@ parts:
        - file: 04_tuple_str_sets/05_list_comprehension.md
        - file: 04_tuple_str_sets/06_enumerate.md
        - file: 04_tuple_str_sets/07_overall.md
+     - file: 05_func/00_overview.md
+       sections:
+       - file: 05_func/01_functions.md
+       - file: 05_func/02_return_types.md
+       - file: 05_func/03_function_types.md
+       - file: 05_func/04_scope.md
+       - file: 05_func/05_modules.md
+       - file: 05_func/06_mul_py_files.md
+       - file: 05_func/07_random_mod.md
+       - file: 05_func/08_debugging_demo.md
+       - file: 05_func/09_overall_demo.md
   
 
   #   - file: data_types_and_program_control_i/00_overview.md
