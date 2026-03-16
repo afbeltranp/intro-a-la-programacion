@@ -1,5 +1,3 @@
-## Descripción del Proyecto
-
 # Descripción del Proyecto: Toros y Vacas
 
 ## Parte 1 - Ingeniería Inversa del Programa de Muestra

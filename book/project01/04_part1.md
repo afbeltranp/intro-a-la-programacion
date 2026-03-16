@@ -93,8 +93,7 @@ Cuando realizas ingeniería inversa de un programa, lo primero que debes hacer e
 
 A lo largo del programa, se utilizan simples bucles **while** y **for**, y se emplea el módulo estándar `random` para la generación del código. Todo el proceso está impulsado por una secuencia descendente de avisos y verificaciones de condiciones, así como por la entrada actual del usuario.
 
-
-**Script para Generar Aleatoriamente el Código Secreto**
+## Script para Generar Aleatoriamente el Código Secreto
 Es importante que uses las siguientes líneas de código para generar el código secreto.
 
 ```python
