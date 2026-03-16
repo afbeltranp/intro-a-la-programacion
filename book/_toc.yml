@@ -52,12 +52,12 @@ parts:
        - file: 05_func/07_random_mod.md
        - file: 05_func/08_debugging_demo.md
        - file: 05_func/09_overall_demo.md
-     - file: project01/00_overview.md
-       sections:
-       - file: project01/01_game_des.md
-       - file: project01/02_demo_game.md
-       - file: project01/03_prj_overview.md
-       - file: project01/04_part1.md
+    # - file: project01/00_overview.md
+    #   sections:
+    #   - file: project01/01_game_des.md
+    #   - file: project01/02_demo_game.md
+    #   - file: project01/03_prj_overview.md
+    #   - file: project01/04_part1.md
 
   #   - file: data_types_and_program_control_i/00_overview.md
   #     sections:
