@@ -1,6 +1,6 @@
 # Descripción del Juego
 
-En esta sección, revisaremos las reglas de "Toros y Vacas". Si no estás familiarizado con el juego, puedes jugarlo en este enlace:
+En esta sección, revisaremos las reglas de "Toros y Vacas".
 
 **Reglas Básicas:**
 

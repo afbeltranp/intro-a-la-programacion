@@ -1,5 +1,5 @@
 ## Parte 1 - Implementación como Script Puro
-Escribe un juego funcional de "Toros y Vacas" en el archivo `bulls_cows.py`
+Escribe un juego funcional de "Toros y Vacas" en el archivo `bulls_cows_p1.py`
 
 Tu programa debe exhibir exactamente el mismo comportamiento que el proporcionado en "Ejemplo de Toros y Vacas."
 
