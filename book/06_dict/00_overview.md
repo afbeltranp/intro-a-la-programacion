@@ -1,6 +1,4 @@
-# Descripción General
-
-## ¡Este módulo cubre Diccionarios y Rutas de Archivos!
+# Diccionarios
 
 ---
 
@@ -11,9 +9,6 @@ En este módulo repasaremos dos temas principales.
   - Introducción conceptual a los diccionarios.
   - Uso básico de diccionarios en Python.
   - Funciones integradas disponibles para diccionarios.
-- **Rutas de Archivos:**
-  - Rutas absolutas vs. rutas relativas.
-  - Buenas prácticas para rutas de archivos compatibles con distintos sistemas operativos.
 
 ---
 
@@ -34,17 +29,3 @@ En este módulo repasaremos dos temas principales.
 
 - Conocer las funciones integradas de los diccionarios en Python.
 - Comprender cómo obtener claves, valores y elementos.
-
----
-
-### 4. **Demostración General**
-
-- Un ejercicio de programación que pone a prueba todos los temas anteriores.
-  - Esto se repetirá cada semana.
-
----
-
-### 5. **Demostración de Depuración**
-
-- Una lección de depuración específica para diccionarios, seguida de una actividad práctica.
-  - Esto se repetirá cada semana.
