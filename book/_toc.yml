@@ -52,6 +52,11 @@ parts:
        - file: 05_func/07_random_mod.md
        - file: 05_func/08_debugging_demo.md
        - file: 05_func/09_overall_demo.md
+     - file: 06_dict/00_overview.md
+       sections:
+       - file: 06_func/01_concept.md
+       - file: 06_func/02_store.md
+       - file: 06_func/03_func.md
      - file: project01/00_overview.md
        sections:
        - file: project01/01_game_des.md
