@@ -57,16 +57,16 @@ parts:
        - file: 06_dict/01_concept.md
        - file: 06_dict/02_store.md
        - file: 06_dict/03_func.md
-     - file: project01/00_overview.md
-       sections:
-       - file: project01/01_game_des.md
-       - file: project01/02_demo_game.md
-       - file: project01/03_prj_overview.md
-       - file: project01/04_part1.md
-       - file: project01/05_part2_1.md
-         sections:
-         - file: project01/06_part2_2.md
-         - file: project01/07_part2_3.md
+     #- file: project01/00_overview.md
+     #  sections:
+     #  - file: project01/01_game_des.md
+     #  - file: project01/02_demo_game.md
+     #  - file: project01/03_prj_overview.md
+     #  - file: project01/04_part1.md
+     #  - file: project01/05_part2_1.md
+     #    sections:
+     #    - file: project01/06_part2_2.md
+     #    - file: project01/07_part2_3.md
 
   #   - file: data_types_and_program_control_i/00_overview.md
   #     sections:
