@@ -57,6 +57,15 @@ parts:
        - file: 06_dict/01_concept.md
        - file: 06_dict/02_store.md
        - file: 06_dict/03_func.md
+     - file: 07_io/00_overview.md
+       sections:
+       - file: 07_io/01_paths.md
+       - file: 07_io/02_io_files.md
+       - file: 07_io/03_read.md
+       - file: 07_io/04_write.md
+       - file: 07_io/05_csv_file.md
+       - file: 07_io/06_csv_module.md
+       - file: 07_io/07_debug.md
      #- file: project01/00_overview.md
      #  sections:
      #  - file: project01/01_game_des.md
