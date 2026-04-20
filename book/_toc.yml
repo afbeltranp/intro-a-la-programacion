@@ -66,6 +66,18 @@ parts:
        - file: 07_io/05_csv_file.md
        - file: 07_io/06_csv_module.md
        - file: 07_io/07_debug.md
+     - file: 08_errores_cli/00_introduccion.md
+       sections:
+       - file: 08_errores_cli/01_try_except.md
+       - file: 08_errores_cli/02_valueerror.md
+       - file: 08_errores_cli/03_eoferror.md
+       - file: 08_errores_cli/04_filenotfounderror.md
+       - file: 08_errores_cli/05_indexerror.md
+       - file: 08_errores_cli/06_lanzar_errores.md
+       - file: 08_errores_cli/07_cli_introduccion.md
+       - file: 08_errores_cli/08_entrada_cli.md
+       - file: 08_errores_cli/09_demo_depuracion.md
+       - file: 08_errores_cli/10_demo_general.md
      #- file: project01/00_overview.md
      #  sections:
      #  - file: project01/01_game_des.md
