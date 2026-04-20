@@ -78,6 +78,7 @@ parts:
        - file: 08_cli/08_entrada_cli.md
        - file: 08_cli/09_demo_depuracion.md
        - file: 08_cli/10_demo_general.md
+     - file: 11_tutor/tutor_ia.md
      ##- file: project01/00_overview.md
      #  sections:
      #  - file: project01/01_game_des.md
