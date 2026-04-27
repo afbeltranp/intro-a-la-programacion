@@ -1,6 +1,4 @@
-# Descripción General
-
-## Esta semana: Clases y Herencia
+# Clases 
 
 ---
 
