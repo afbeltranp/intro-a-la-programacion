@@ -78,6 +78,14 @@ parts:
        - file: 08_cli/08_entrada_cli.md
        - file: 08_cli/09_demo_depuracion.md
        - file: 08_cli/10_demo_general.md
+     - file: 09_class/01_descripcion_general.md
+       sections:
+       - file: 09_class/02_clases_vs_objetos.md
+       - file: 09_class/03_propiedades_y_metodos.md
+       - file: 09_class/04_metodos_especiales.md
+       - file: 09_class/05_clases_en_practica.md
+       - file: 09_class/06_demo_depuracion.md
+       - file: 09_class/07_demo_general.md
      - file: 11_tutor/tutor_ia.md
      - file: 11_tutor/tutor_ia2.md
      ##- file: project01/00_overview.md
