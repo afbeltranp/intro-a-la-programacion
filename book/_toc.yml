@@ -93,7 +93,8 @@ parts:
        - file: 10_adv/04_apis.md
        - file: 10_adv/05_autenticacion_api.md
        - file: 10_adv/06_google_colab.md
-       - file: jupyter_notebook_tutorial_es.ipynb
+         sections:
+         - file: jupyter_notebook_tutorial_es.ipynb
        - file: 10_adv/07_mas_alla_del_curso.md
      - file: 11_tutor/tutor_ia.md
      - file: 11_tutor/tutor_ia2.md
