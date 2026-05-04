@@ -36,13 +36,11 @@ Antes de continuar:
 
 ## Paso 1: Subir el Cuaderno a Google Colab
 
-1. Ve a Teams.
-2. Haz clic en el archivo `jupyter_notebook_tutorial.ipynb`.
-3. Haz clic en "Descargar".
-4. Inicia sesión en tu Google Drive.
-5. Ve a [https://colab.research.google.com](https://colab.research.google.com).
-6. Haz clic en **Subir**.
-7. Selecciona `jupyter_notebook_tutorial.ipynb` en tu Explorador de archivos.
+1. Descarga el Cuaderno de la siguiente pagina: `jupyter_notebook_tutorial.ipynb`. En la esquina superior encontraras la opción. 
+2. Inicia sesión en tu Google Drive.
+3. Ve a [https://colab.research.google.com](https://colab.research.google.com).
+4. Haz clic en **Subir**.
+5. Selecciona `jupyter_notebook_tutorial.ipynb` en tu Explorador de archivos.
 
 Si abres desde Google Drive:
 
@@ -51,6 +49,3 @@ Si abres desde Google Drive:
 3. Elige **Abrir con → Google Colaboratory**.
 
 El resto de este tutorial estará en Google Colab, en el cuaderno que acabas de descargar y subir.
-
-**Usarás el cuaderno para resolver la siguiente pregunta:**
-
