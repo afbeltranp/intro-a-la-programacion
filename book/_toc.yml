@@ -86,6 +86,15 @@ parts:
        - file: 09_class/05_clases_en_practica.md
        - file: 09_class/06_demo_depuracion.md
        - file: 09_class/07_demo_general.md
+     - file: 10_adv/01_resumen_modulo_10.md
+       sections:
+       - file: 10_adv/02_ia_generativa.md
+       - file: 10_adv/03_introduccion_bibliotecas.md
+       - file: 10_adv/04_apis.md
+       - file: 10_adv/05_autenticacion_api.md
+       - file: 10_adv/06_google_colab.md
+       - file: jupyter_notebook_tutorial_es.ipynb
+       - file: 10_adv/07_mas_alla_del_curso.md
      - file: 11_tutor/tutor_ia.md
      - file: 11_tutor/tutor_ia2.md
      ##- file: project01/00_overview.md
