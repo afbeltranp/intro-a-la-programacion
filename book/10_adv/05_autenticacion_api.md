@@ -162,6 +162,9 @@ de Introducción a las Bibliotecas?**
 ```python
 import requests
 import os
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+from io import BytesIO
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -173,7 +176,7 @@ if not api_key:
 url = "https://api.nasa.gov/planetary/apod"
 params = {
     "api_key": api_key,
-    "date": "2024-07-04"
+    "date": "2026-05-03"
 }
 
 response = requests.get(url, params=params)
@@ -183,6 +186,19 @@ if response.status_code == 200:
     print("Título:", data["title"])
     print("Fecha:", data["date"])
     print("Descripción:", data["explanation"][:300], "...")
+
+    if data["media_type"] == "image":
+        image_response = requests.get(data["url"])
+        img = mpimg.imread(BytesIO(image_response.content), format="jpg")
+
+        plt.figure(figsize=(10, 7))
+        plt.imshow(img)
+        plt.axis("off")
+        plt.title(data["title"], fontsize=14, pad=12)
+        plt.tight_layout()
+        plt.show()
+    else:
+        print("La entrada de hoy es un video:", data["url"])
 else:
     print("Error:", response.status_code)
 ```
