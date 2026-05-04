@@ -88,7 +88,6 @@ parts:
        - file: 09_class/07_demo_general.md
      - file: 10_adv/01_resumen_modulo_10.md
        sections:
-       - file: 10_adv/02_ia_generativa.md
        - file: 10_adv/03_introduccion_bibliotecas.md
        - file: 10_adv/04_apis.md
        - file: 10_adv/05_autenticacion_api.md
