@@ -24,76 +24,76 @@ parts:
         - file: 02_python_basics/08_overall_demo.ipynb
      - file: 03_cond_loop_list/00_overview.md
        sections:
-       - file: 03_cond_loop_list/01_cond.md
-       - file: 03_cond_loop_list/02_logops.md
-       - file: 03_cond_loop_list/03_while.md
-       - file: 03_cond_loop_list/04_list.md
-       - file: 03_cond_loop_list/05_for.md
-       - file: 03_cond_loop_list/06_minmax.md
-       - file: 03_cond_loop_list/07_nested.md
-       - file: 03_cond_loop_list/08_demo.md
+        - file: 03_cond_loop_list/01_cond.md
+        - file: 03_cond_loop_list/02_logops.md
+        - file: 03_cond_loop_list/03_while.md
+        - file: 03_cond_loop_list/04_list.md
+        - file: 03_cond_loop_list/05_for.md
+        - file: 03_cond_loop_list/06_minmax.md
+        - file: 03_cond_loop_list/07_nested.md
+        - file: 03_cond_loop_list/08_demo.md
      - file: 04_tuple_str_sets/00_overview.md
        sections:
-       - file: 04_tuple_str_sets/01_tuples.md
-       - file: 04_tuple_str_sets/02_strings.md
-       - file: 04_tuple_str_sets/03_sets.md
-       - file: 04_tuple_str_sets/04_input_val.md
-       - file: 04_tuple_str_sets/05_list_comprehension.md
-       - file: 04_tuple_str_sets/06_enumerate.md
-       - file: 04_tuple_str_sets/07_overall.md
+        - file: 04_tuple_str_sets/01_tuples.md
+        - file: 04_tuple_str_sets/02_strings.md
+        - file: 04_tuple_str_sets/03_sets.md
+        - file: 04_tuple_str_sets/04_input_val.md
+        - file: 04_tuple_str_sets/05_list_comprehension.md
+        - file: 04_tuple_str_sets/06_enumerate.md
+        - file: 04_tuple_str_sets/07_overall.md
      - file: 05_func/00_overview.md
        sections:
-       - file: 05_func/01_functions.md
-       - file: 05_func/02_return_types.md
-       - file: 05_func/03_function_types.md
-       - file: 05_func/04_scope.md
-       - file: 05_func/05_modules.md
-       - file: 05_func/06_mul_py_files.md
-       - file: 05_func/07_random_mod.md
-       - file: 05_func/08_debugging_demo.md
-       - file: 05_func/09_overall_demo.md
+        - file: 05_func/01_functions.md
+        - file: 05_func/02_return_types.md
+        - file: 05_func/03_function_types.md
+        - file: 05_func/04_scope.md
+        - file: 05_func/05_modules.md
+        - file: 05_func/06_mul_py_files.md
+        - file: 05_func/07_random_mod.md
+        - file: 05_func/08_debugging_demo.md
+        - file: 05_func/09_overall_demo.md
      - file: 06_dict/00_overview.md
        sections:
-       - file: 06_dict/01_concept.md
-       - file: 06_dict/02_store.md
-       - file: 06_dict/03_func.md
+        - file: 06_dict/01_concept.md
+        - file: 06_dict/02_store.md
+        - file: 06_dict/03_func.md
      - file: 07_io/00_overview.md
        sections:
-       - file: 07_io/01_paths.md
-       - file: 07_io/02_io_files.md
-       - file: 07_io/03_read.md
-       - file: 07_io/04_write.md
-       - file: 07_io/05_csv_file.md
-       - file: 07_io/06_csv_module.md
-       - file: 07_io/07_debug.md
+        - file: 07_io/01_paths.md
+        - file: 07_io/02_io_files.md
+        - file: 07_io/03_read.md
+        - file: 07_io/04_write.md
+        - file: 07_io/05_csv_file.md
+        - file: 07_io/06_csv_module.md
+        - file: 07_io/07_debug.md
      - file: 08_cli/00_introduccion.md
        sections:
-       - file: 08_cli/01_try_except.md
-       - file: 08_cli/02_valueerror.md
-       - file: 08_cli/03_eoferror.md
-       - file: 08_cli/04_filenotfounderror.md
-       - file: 08_cli/05_indexerror.md
-       - file: 08_cli/06_lanzar_errores.md
-       - file: 08_cli/07_cli_introduccion.md
-       - file: 08_cli/08_entrada_cli.md
-       - file: 08_cli/09_demo_depuracion.md
-       - file: 08_cli/10_demo_general.md
+        - file: 08_cli/01_try_except.md
+        - file: 08_cli/02_valueerror.md
+        - file: 08_cli/03_eoferror.md
+        - file: 08_cli/04_filenotfounderror.md
+        - file: 08_cli/05_indexerror.md
+        - file: 08_cli/06_lanzar_errores.md
+        - file: 08_cli/07_cli_introduccion.md
+        - file: 08_cli/08_entrada_cli.md
+        - file: 08_cli/09_demo_depuracion.md
+        - file: 08_cli/10_demo_general.md
      - file: 09_class/01_descripcion_general.md
        sections:
-       - file: 09_class/02_clases_vs_objetos.md
-       - file: 09_class/03_propiedades_y_metodos.md
-       - file: 09_class/04_metodos_especiales.md
-       - file: 09_class/05_clases_en_practica.md
-       - file: 09_class/06_demo_depuracion.md
-       - file: 09_class/07_demo_general.md
+        - file: 09_class/02_clases_vs_objetos.md
+        - file: 09_class/03_propiedades_y_metodos.md
+        - file: 09_class/04_metodos_especiales.md
+        - file: 09_class/05_clases_en_practica.md
+        - file: 09_class/06_demo_depuracion.md
+        - file: 09_class/07_demo_general.md
      - file: 10_adv/01_resumen_modulo_10.md
        sections:
-       - file: 10_adv/03_introduccion_bibliotecas.md
-       - file: 10_adv/04_apis.md
-       - file: 10_adv/05_autenticacion_api.md
-       - file: 10_adv/06_google_colab.md
-         sections:
-         - file: 10_adv/jupyter_notebook_tutorial_es.ipynb
+        - file: 10_adv/03_introduccion_bibliotecas.md
+        - file: 10_adv/04_apis.md
+        - file: 10_adv/05_autenticacion_api.md
+        - file: 10_adv/06_google_colab.md
+          sections:
+           - file: 10_adv/jupyter_notebook_tutorial_es.ipynb
      - file: 07_mas_alla_del_curso.md
      - file: 11_tutor/tutor_ia.md
      - file: 11_tutor/tutor_ia2.md
