@@ -94,7 +94,7 @@ parts:
        - file: 10_adv/06_google_colab.md
          sections:
          - file: 10_adv/jupyter_notebook_tutorial_es.ipynb
-     - file: 10_adv/07_mas_alla_del_curso.md
+     - file: 07_mas_alla_del_curso.md
      - file: 11_tutor/tutor_ia.md
      - file: 11_tutor/tutor_ia2.md
      ##- file: project01/00_overview.md
