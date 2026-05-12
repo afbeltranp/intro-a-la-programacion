@@ -10,7 +10,7 @@
 - Repasen los módulos sobre **Listas y Listas Anidadas**, **Funciones**, **Clases**, **E/S de Archivos**, e **Introducción a las Bibliotecas**.
 - Lean (o al menos hojeen) toda la descripción del proyecto antes de escribir código — tener la *visión completa* les ahorrará mucho tiempo.
 - Descarguen el paquete de inicio del proyecto (que contiene conjuntos de datos de muestra y archivos de configuración).
-- Sigan las instruciones de la descripción del proyecto y el readme.md del paquete del proyecto. 
+- Sigan las instruciones de la descripción del proyecto y el README del paquete del proyecto. 
 
 ---
 
