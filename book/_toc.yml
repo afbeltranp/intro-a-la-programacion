@@ -97,7 +97,7 @@ parts:
      - file: 07_mas_alla_del_curso.md
      - file: 11_tutor/tutor_ia.md
      - file: 11_tutor/tutor_ia2.md
-     ##- file: project01/00_overview.md
+     - file: prj2/prj2.md
      #  sections:
      #  - file: project01/01_game_des.md
      #  - file: project01/02_demo_game.md
